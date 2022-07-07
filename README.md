@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on anything. I just need to have some work on my hands! 
 - 🤔 I’m looking for help with finding a game dev job :D! 
 - 💬 Ask me about my doggo!
-- 📫 How to reach me: [Linkedin - Kamil Lorbiecki](https://www.linkedin.com/in/kamil-lorbiecki/) , [Unity Learn Profile](https://learn.unity.com/u/5fddd11aedbc2a1a17345fac) 
+- 📫 How to reach me: [LinkedIn - Kamil Lorbiecki](https://www.linkedin.com/in/kamil-lorbiecki/) , [Unity Learn Profile](https://learn.unity.com/u/5fddd11aedbc2a1a17345fac) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Unity/C# start was my fourth (and finally successful) attempt to learn coding! Never give up! 
 
