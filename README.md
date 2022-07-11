@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Battle City clone for mobile and a bullet-hell game.
 - 🌱 I’m currently learning Animation on Unity Learn Creative Core.
-- 👯 I’m looking to collaborate on anything. I just need to have some work on my hands! 
+- 👯 I’m looking to collaborate on anything. I just need to have my hands full! 
 - 🤔 I’m looking for help with finding a game dev job :D! 
 - 💬 Ask me about my doggo!
 - 📫 How to reach me: [LinkedIn - Kamil Lorbiecki](https://www.linkedin.com/in/kamil-lorbiecki/) , [Unity Learn Profile](https://learn.unity.com/u/5fddd11aedbc2a1a17345fac) 
