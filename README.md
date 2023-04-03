@@ -3,10 +3,10 @@
 *"Przed wyruszeniem w drogę należy zebrać drużynę."* 
 
 
-- 🔭 I’m currently working on a hoard arena wave game.
+- 🔭 I’m currently working on a new game at Big Cheese Studio.
 - 🌱 I’m currently learning VFX on Unity Learn Creative Core.
 - 👯 I’m looking to collaborate on anything. I just need to have my hands full! 
-- 🤔 I’m looking for help with finding a game dev job :D! 
+- 🤔 I’m looking for help with my learning process! 
 - 💬 Ask me about my doggo!
 - 📫 How to reach me: [LinkedIn - Kamil Lorbiecki](https://www.linkedin.com/in/kamil-lorbiecki/) , [Unity Learn Profile](https://learn.unity.com/u/5fddd11aedbc2a1a17345fac) 
 - 😄 Pronouns: He/Him
