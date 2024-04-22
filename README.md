@@ -3,7 +3,7 @@
 *"Przed wyruszeniem w drogę należy zebrać drużynę."* 
 
 
-- 🔭 I’m currently working on a new game at Big Cheese Studio.
+- 🔭 I’m currently working on porting a game to consoles at ConsoleWay.
 - 🌱 I’m currently learning VFX on Unity Learn Creative Core.
 - 👯 I’m looking to collaborate on anything. I just need to have my hands full! 
 - 🤔 I’m looking for help with my learning process! 
@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Unity/C# start was my fourth (and finally successful) attempt to learn coding! Never give up! 
 
-
+**Let's connect and chat about game development!**
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Minal06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117">
 
